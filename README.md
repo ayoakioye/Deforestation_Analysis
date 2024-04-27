@@ -116,6 +116,35 @@ WHERE RANK_OF_COUNTRIES = 1;`
 
 1) The Upper Middle Group have an average area of 383325.889536918 SQUARED MILES , The High Income Group have an average area of 187168.234654386 SQUARED MILES, The Low Income Group have an average area of 175070.82913357 SQUARED MILES. The Upper Middle Group have a larger average area compared to other income groups.
    
-2) The total forest area for countries in the High Income Group is 365003415.892178 KILOMETER SQUARED,The total forest area for countries in the Low Income Group is 115795645.375131 KILOMETER SQUARED, The total forest area for countries in the Upper Middle Group is 548190240.803801 KILOMETER SQUARED. The Upper Middle Group have a larger Total Forest Area  of 548190240.803801   KILOMETER SQUARED compared to other groups
+2) The total forest area for countries in the High Income Group is 365003415.892178 KILOMETER SQUARED,The total forest area for countries in the Low Income Group is 115795645.375131 KILOMETER SQUARED, The total forest area for countries in the Upper Middle Group is 548190240.803801 KILOMETER SQUARED. The Upper Middle Group have a larger Total Forest Area  of 548190240.803801   KILOMETER SQUARED compared to other groups.
+
+3) Afghanister had a consistent forest_area_skqm of 13500, which indicates that Afghanister did not experience deforestation.
+
+4) 682 Countries had a total area ranging from 75,000 to 150,000 square Meter
+
+5) The Russian Fedration Region had the highest total forest area of 8151356
+   
+
+# Conclusion 
+
+Deforestation is forest clearance or th remival and destruction of a foresr or stand of trees from land that is then converted to non-forest use.It refers to the decreses in forest areas across the worldthat are lost of other uses such asa agricultural crolands, urbanization, or mining activities.
+
+Deforestation can cause climate change, desertification, soil erosion, fewer crops, flooding, incresed greenhouse gasses in the atmosphere and a host of problems.
+
+In other to curb deforestation , We need to recycle papers, cardbords, use more recycled products,avoid excessive burning, use sustainable wood products etc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
