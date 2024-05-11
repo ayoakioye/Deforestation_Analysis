@@ -127,7 +127,7 @@ WHERE RANK_OF_COUNTRIES = 1;`
 
 # Conclusion 
 
-Deforestation is forest clearance or th remival and destruction of a foresr or stand of trees from land that is then converted to non-forest use.It refers to the decreses in forest areas across the worldthat are lost of other uses such asa agricultural crolands, urbanization, or mining activities.
+Deforestation is forest clearance or th removal and destruction of a forest or stand of trees from land that is then converted to non-forest use.It refers to the decreases in forest areas across the world that are lost of other uses such asa agricultural lands, urbanization, or mining activities.
 
 Deforestation can cause climate change, desertification, soil erosion, fewer crops, flooding, incresed greenhouse gasses in the atmosphere and a host of problems.
 
