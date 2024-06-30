@@ -1,7 +1,7 @@
 ![](Deforestation.png)
 
 # Introduction
-This is a SQL-project whic focuses on studing defprestation across different countries in different regions(continent) between the year 1990 amd 2016. It includes three tables 
+This is a SQL-project that focuses on studing deforestation across different countries in different regions(continent) between the year 1990 amd 2016. It includes three tables 
 
 The forest_area table
 ![](forest_area.png)
@@ -127,7 +127,7 @@ WHERE RANK_OF_COUNTRIES = 1;`
 
 # Conclusion 
 
-Deforestation is forest clearance or th removal and destruction of a forest or stand of trees from land that is then converted to non-forest use.It refers to the decreases in forest areas across the world that are lost of other uses such asa agricultural lands, urbanization, or mining activities.
+Deforestation is forest clearance or the removal and destruction of a forest or stand of trees from land that is then converted to non-forest use.It refers to the decreases in forest areas across the world that are lost of other uses such asa agricultural lands, urbanization, or mining activities.
 
 Deforestation can cause climate change, desertification, soil erosion, fewer crops, flooding, incresed greenhouse gasses in the atmosphere and a host of problems.
 
